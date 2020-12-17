@@ -15,3 +15,4 @@ Reminders for growing mindset:
 
 features:
 table,italic,bold
+[list of contents](https://github.com/ownal-daboubi/reading-notes-Repo/blob/main/README.md)
